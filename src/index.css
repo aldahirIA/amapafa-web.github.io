@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background-color: #f9fafb;
+  color: #111;
+}
+input, button, select {
+  font: inherit;
+}
